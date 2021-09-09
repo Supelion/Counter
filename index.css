@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "Sora";
+    src: url('./Sora-ExtraBold.ttf');
+}
+
+body {
+    background-color: #d5f2ff;
+    font-family: "Sora";
+    text-align: center;
+    font-size: xx-large;
+}
+
+#count {
+    font-size: large;
+}
+
+button {
+    background-color: black;
+    border: 1px solid #d5f2ff;
+    border-radius: 8px;
+    font-family: "Sora";
+    color: #d5f2ff;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
